@@ -208,6 +208,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 For inquiries or support:
 
 - **Name:** Michael Buchbauer
-- **Email:** michael.buchbauer@example.com
-- **GitHub:** [MichaelBuchbauer](https://github.com/MichaelBuchbauer)
+- **Email:** michael@buchbauer.ch   
+- **GitHub:** [Bubami](https://github.com/Bubami)
 

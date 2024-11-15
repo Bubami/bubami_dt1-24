@@ -53,6 +53,14 @@ Ensure the following before setting up the project:
 - **Docker Installed:** Follow [this guide](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-debian-10).
 - **Basic Knowledge of Flask and Docker.**
 
+### Software Architecture Diagramm
+
+The Software Architecture Diaramm was made with the [tldraw tool](https://www.tldraw.com/r/DcqRGCR-1GvvGDBK_7cfz?d=v-1900.-58.2190.1686.page). 
+
+<img width="716" alt="Untitled" src="https://github.com/user-attachments/assets/8c59632a-34b1-4142-a429-cc33bfc844ca">
+
+
+
 ### Installation
 
 1. **Clone the Repository:**

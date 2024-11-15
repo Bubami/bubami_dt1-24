@@ -57,7 +57,7 @@ Ensure the following before setting up the project:
 
 The Software Architecture Diaramm was made with the [tldraw tool](https://www.tldraw.com/r/DcqRGCR-1GvvGDBK_7cfz?d=v-1900.-58.2190.1686.page). 
 
-<img width="716" alt="Untitled" src="https://github.com/user-attachments/assets/8c59632a-34b1-4142-a429-cc33bfc844ca">
+<img width="716" alt="DT1 Assignement" src="https://github.com/user-attachments/assets/83ccefe6-bac1-4c6c-8153-f62df5c5263e">
 
 
 
